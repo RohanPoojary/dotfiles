@@ -6,3 +6,8 @@ My Dotfiles
     1.  coc-rls
     2.  coc-tabnine
     3.  coc-tsserver
+
+# Setup
+```
+    > sh setup.sh
+```
