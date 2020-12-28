@@ -24,3 +24,8 @@ echo "Setting up Alacritty..."
 mkdir -p $SETUP_DIR/.config/alacritty
 cp -r alacritty/alacritty.yml $SETUP_DIR/.config/alacritty
 echo "Alacritty Done :)"
+
+echo "Setting up Kitty..."
+mkdir -p $SETUP_DIR/.config/kitty
+cp -r kitty/kitty.conf $SETUP_DIR/.config/kitty
+echo "Kitty Done :)"
